@@ -1,1 +1,1 @@
-This is Emil's first git project!!
+This is Emil's first git project!
